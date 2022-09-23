@@ -1,0 +1,21 @@
+turnstile
+=========
+	finite state machine representing a turnstile
+
+usage
+-----
+	$ make
+	$ ./turnstile
+
+depends on
+----------
+	* make
+	* c
+
+license
+-------
+	isc
+
+references
+----------
+	* https://en.wikipedia.org/wiki/Finite-state_machine
